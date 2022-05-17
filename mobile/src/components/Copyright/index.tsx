@@ -6,7 +6,7 @@ import { styles } from './styles';
 export function Copyright() {
   return (
     <View>
-      <Text style={styles.text}>Feito com 💜 pela Rocketseat</Text>
+      <Text style={styles.text}>Feito com 💜 por Victor Borsatto</Text>
     </View>
   );
 }
